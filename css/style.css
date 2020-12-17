@@ -204,26 +204,26 @@ nav li{
     color: #4c8457;
 }
 .slider button.slick-prev:before {
-    content: "\e93d";
+    content: "<";
     font-family: 'xeicon';
     font-weight: bold;
     font-size: 70px;
     color: #4c8457;
 }
 .slider button.slick-next:before {
-    content: "\e940";
+    content: ">";
     font-family: 'xeicon';
     font-weight: bold;
     font-size: 70px;
     color: #4c8457;
 }
 .slider button.slick-prev:after {
-    content: "\e93d";
+    content: "<";
     font-family: 'xeicon';
     color: #4c8457;
 }
 .slider button.slick-next:after {
-    content: "\e940";
+    content: ">";
     font-family: 'xeicon';
     color: #4c8457;
 }
